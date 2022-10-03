@@ -11,3 +11,5 @@ Python practice for DevOps techs
 4. Setup CI pipeline, i.e. check code for issues like lint errors
 
 ![lint-error](https://user-images.githubusercontent.com/104907216/193566005-29973d8b-57c1-4c53-8e84-ea19e6b298f8.png)
+
+5. Build CLI using Python Fire library `./my_cli.py --help` to test logic
