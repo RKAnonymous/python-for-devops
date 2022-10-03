@@ -6,3 +6,10 @@ def wiki(name="Uzbekistan", length=1):
 
     wiki_result = wikipedia.summary(name, length)
     return wiki_result
+
+
+def search(name):
+    """Search Wikipedia for Names"""
+
+    results = wikipedia.search(name)
+    return results
