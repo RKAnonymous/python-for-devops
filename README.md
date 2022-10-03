@@ -1,3 +1,5 @@
+[![Python app test with Github Actions](https://github.com/RKAnonymous/python-for-devops/actions/workflows/devops.yml/badge.svg)](https://github.com/RKAnonymous/python-for-devops/actions/workflows/devops.yml)
+
 # python-for-devops
 Python practice for DevOps techs
 
