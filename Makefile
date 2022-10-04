@@ -13,7 +13,7 @@ test:
 	python -m pytest -vv --cov=mylib --cov=main tests/test_*.py 
 build:
 	#containerization
-
+	docker build -t deploy-fastapi .
 deploy:
 	#deploy
 
