@@ -8,7 +8,9 @@ client = TestClient(app)
 def test_read_main():
     response = client.get("/")
     assert response.status_code == 200
-    assert response.json() == {"message": "Wikipedia API. Use functionalities up to your requirements."}
+    assert response.json() == {
+        "message": "Wikipedia API. Use functionalities up to your requirements."
+    }
 
 
 def test_read_phrase():
@@ -26,6 +28,6 @@ def test_read_phrase():
             "uzbekistan",
             "predecessor state",
             "uzbek",
-            "socialist republic"
+            "socialist republic",
         ]
     }
