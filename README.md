@@ -1,5 +1,5 @@
 [![Python app test with Github Actions](https://github.com/RKAnonymous/python-for-devops/actions/workflows/devops.yml/badge.svg)](https://github.com/RKAnonymous/python-for-devops/actions/workflows/devops.yml)
-[!Python version](https://img.shields.io/badge/Python-3.8-blue)
+https://img.shields.io/badge/Python-3.8-blue
 
 # python-for-devops
 Python practice for DevOps techs
