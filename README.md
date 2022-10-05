@@ -1,5 +1,5 @@
 [![Python app test with Github Actions](https://github.com/RKAnonymous/python-for-devops/actions/workflows/devops.yml/badge.svg)](https://github.com/RKAnonymous/python-for-devops/actions/workflows/devops.yml)
-[![Python app test with Github Actions](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiVnRJLzh4OUh0S2ZLQUQ5OVp1QkM1Q1Z0NmIzNzg0NHpjaDFpUXQvNmN2Ny9lZ24zZmN6WkxvQnBLMnRlZlRvZHBFSE5QZTZrVE5sY1hvRnM4NkliMHRNPSIsIml2UGFyYW1ldGVyU3BlYyI6IkFHamlIZU4yS2pLOUJpa0giLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main)
+![Python app test with Github Actions](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiVnRJLzh4OUh0S2ZLQUQ5OVp1QkM1Q1Z0NmIzNzg0NHpjaDFpUXQvNmN2Ny9lZ24zZmN6WkxvQnBLMnRlZlRvZHBFSE5QZTZrVE5sY1hvRnM4NkliMHRNPSIsIml2UGFyYW1ldGVyU3BlYyI6IkFHamlIZU4yS2pLOUJpa0giLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main)
 [![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg?logo=Python&logoColor=yellow)](https://www.python.org/downloads/release/python-360/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.85.0-009688.svg?style=flat&logo=FastAPI&logoColor=white)](https://fastapi.tiangolo.com)
 
